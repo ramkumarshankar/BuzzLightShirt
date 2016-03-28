@@ -2,7 +2,7 @@
 
 A shirt that monitors your posture and encourages deep breathing exercises. An accelerometer allows for easy anytime feedback on how well you're doing.
 
-[Video on Youtube](https://youtu.be/cb-4AEyg_2I)
+[Video on Youtube](https://youtu.be/LyU4IyufY14)
 
 The project has the following features
 
