@@ -1,4 +1,4 @@
-# Light BuzzShirt
+# Buzz LightShirt
 
 A shirt that monitors your posture and encourages deep breathing exercises. An accelerometer allows for easy anytime feedback on how well you're doing.
 
@@ -12,12 +12,12 @@ The project has the following features
 
 Components used:
 
-* Lilypad mainbaord
+* Lilypad mainboard
 * RGB LED
 * Vibration motor
 * Lilypad accelerometer ADXL335
 
 ## Repository Structure
 
-The sketch under `lightbuzzshirt` is the main program.
+The sketch under `buzzlightshirt` is the main program.
 `test-sketches` contains code written in the intermediate steps for testing various components.
